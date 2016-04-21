@@ -1,0 +1,26 @@
+{
+  "name": "mocha-chai",
+  "version": "1.0.0",
+  "description": "Mocha Chai project to learn",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakapong/mocha-chai.git"
+  },
+  "keywords": [
+    "chai",
+    "mocha"
+  ],
+  "author": "'Zack' <'zaka.pong@yahoo.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zakapong/mocha-chai/issues"
+  },
+  "homepage": "https://github.com/zakapong/mocha-chai#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
